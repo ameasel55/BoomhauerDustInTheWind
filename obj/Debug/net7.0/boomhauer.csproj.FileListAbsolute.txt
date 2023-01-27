@@ -1,0 +1,15 @@
+/Users/pammeasel/Desktop/Repos/boomhauer/bin/Debug/net7.0/boomhauer
+/Users/pammeasel/Desktop/Repos/boomhauer/bin/Debug/net7.0/boomhauer.deps.json
+/Users/pammeasel/Desktop/Repos/boomhauer/bin/Debug/net7.0/boomhauer.runtimeconfig.json
+/Users/pammeasel/Desktop/Repos/boomhauer/bin/Debug/net7.0/boomhauer.dll
+/Users/pammeasel/Desktop/Repos/boomhauer/bin/Debug/net7.0/boomhauer.pdb
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.csproj.AssemblyReference.cache
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.AssemblyInfoInputs.cache
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.AssemblyInfo.cs
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.csproj.CoreCompileInputs.cache
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.dll
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/refint/boomhauer.dll
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.pdb
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/boomhauer.genruntimeconfig.cache
+/Users/pammeasel/Desktop/Repos/boomhauer/obj/Debug/net7.0/ref/boomhauer.dll
